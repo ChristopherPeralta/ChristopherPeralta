@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [AppInstitucional](https://github.com/ChristopherPeralta/AppInstitucional)
 
-- 🌱 I’m currently learning **SwiftUI**, **Figma**
-
 - 🔭 I’m currently working on [Sales Managment System](https://github.com/ChristopherPeralta/Sales_Managment_System)
+
+- 🌱 I’m currently learning **SwiftUI**, **Figma**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
