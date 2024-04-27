@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Christopher Peralta</h1>
 <h3 align="center">A passionate IOS developer</h3>
 
-- 🔭 I’m currently working on [AppInstitucional](https://github.com/ChristopherPeralta/AppInstitucional)
-
 - 🔭 I’m currently working on [Sales Managment System](https://github.com/ChristopherPeralta/Sales_Managment_System)
 
 - 🌱 I’m currently learning **SwiftUI** and **Figma**
