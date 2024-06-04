@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sales Managment System](https://github.com/ChristopherPeralta/Sales_Managment_System)
 
-- 🌱 I’m currently learning **SwiftUI** and **Figma**
+- 🌱 I’m currently learning **SwiftUI** and **NodeJS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
